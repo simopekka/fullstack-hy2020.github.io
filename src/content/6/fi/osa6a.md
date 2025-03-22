@@ -31,7 +31,7 @@ Tutustutaan Reduxiin tekemällä jälleen kerran laskurin toteuttava sovellus:
 
 ![Renderöity kokonaisluku sekä kolme nappia: plus, minus ja zero](../../images/6/1.png)
 
-Tehdään uusi Create React App ‑sovellus ja asennetaan siihen <i>Redux</i>:
+Tehdään uusi Vite ‑sovellus ja asennetaan siihen <i>Redux</i>:
 
 ```bash
 npm install redux
